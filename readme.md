@@ -56,3 +56,34 @@ The main objective of this project is to develop practical skills in **AutoCAD m
 * **AutoCAD**
 
 This project is suitable for **mechanical engineering students, CAD learners, and beginners** looking to practice mechanical component drafting in AutoCAD.
+
+
+
+
+ #project-3
+ nut bolt
+ description:
+ # Nut and Bolt Design in AutoCAD
+
+This project presents the **design and drafting of a Nut and Bolt assembly using AutoCAD**. Nut and bolt fasteners are commonly used mechanical components for joining two or more parts securely while allowing easy assembly and disassembly.
+
+The project focuses on creating an accurate representation of the **bolt, hexagonal nut, threads, and other essential features** using standard mechanical drawing practices. Proper dimensions, geometric construction, and annotations are included to represent the fastener clearly.
+
+## Project Features
+
+* 2D drafting of nut and bolt components
+* Hexagonal nut design
+* Bolt and threaded portion
+* Accurate dimensions and annotations
+* Front, top, and sectional representations
+* Application of standard mechanical drawing conventions
+
+## Objective
+
+The objective of this project is to develop practical skills in **AutoCAD mechanical drafting, geometric construction, dimensioning, and representation of standard fasteners**.
+
+## Software Used
+
+* **AutoCAD**
+
+This project is suitable for **mechanical engineering students, CAD learners, and beginners** who want to practice designing and drafting commonly used mechanical components.
